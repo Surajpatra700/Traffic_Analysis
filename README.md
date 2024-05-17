@@ -1,6 +1,6 @@
 # Real-Time Traffic Analysis with YOLOv8
 
-![Demo Video](link-to-your-video)
+![Working Video](https://drive.google.com/file/d/1s0nyyijHFbfrtuI2fHo9CvxHWwAUX5nm/view?usp=sharing)
 
 ## Table of Contents
 
@@ -30,8 +30,8 @@ To set up the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/traffic-analysis-yolov8.git
-    cd traffic-analysis-yolov8
+    git clone [https://github.com/yourusername/traffic-analysis-yolov8.git](https://github.com/Surajpatra700/Traffic_Analysis.git)
+    cd Traffic Analysis
     ```
 
 2. **Create a virtual environment and activate it**:
