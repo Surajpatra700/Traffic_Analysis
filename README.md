@@ -1,6 +1,6 @@
 # Real-Time Traffic Analysis with YOLOv8
 
-![Working Video][(link-to-your-video)](https://drive.google.com/file/d/1s0nyyijHFbfrtuI2fHo9CvxHWwAUX5nm/view?usp=sharing)
+![Working Video][(link-to-the-video)](https://drive.google.com/file/d/1s0nyyijHFbfrtuI2fHo9CvxHWwAUX5nm/view?usp=sharing)
 
 ## Table of Contents
 
@@ -9,7 +9,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -60,16 +59,12 @@ To set up the project, follow these steps:
 
 The following is a demonstration of the system in action:
 
-![Working Video][(link-to-your-video)](https://drive.google.com/file/d/1s0nyyijHFbfrtuI2fHo9CvxHWwAUX5nm/view?usp=sharing)
+![Working Video][(link-to-the-video)](https://drive.google.com/file/d/1s0nyyijHFbfrtuI2fHo9CvxHWwAUX5nm/view?usp=sharing)
 
 **Key Results**:
 - Real-time detection and tracking of vehicles.
 - Visualization of vehicle trajectories.
 - Accurate counting of vehicles entering specific zones.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or want to contribute new features, please open an issue or submit a pull request.
 
 ## License
 
