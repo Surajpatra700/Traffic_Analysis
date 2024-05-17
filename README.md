@@ -1,6 +1,6 @@
 # Real-Time Traffic Analysis with YOLOv8
 
-![Working Video][(https://drive.google.com/file/d/1s0nyyijHFbfrtuI2fHo9CvxHWwAUX5nm/view?usp=sharing)](https://drive.google.com/file/d/1s0nyyijHFbfrtuI2fHo9CvxHWwAUX5nm/view?usp=sharing)
+![Traffic Analysis Working Video](https://drive.google.com/file/d/1s0nyyijHFbfrtuI2fHo9CvxHWwAUX5nm/view?usp=sharing)
 
 ## Table of Contents
 
