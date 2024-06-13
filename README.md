@@ -7,7 +7,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [script arguments](#script arguments)
+- [script_arguments](#script_arguments)
 - [Run](#Run)
 - [Results](#results)
 - [License](#license)
@@ -29,7 +29,7 @@ This repository contains a real-time traffic analysis system leveraging YOLOv8 f
 - clone repository and navigate to current directory
 
   ```bash
-  git clone https://github.com/roboflow/supervision.git
+  git clone [https://github.com/roboflow/supervision.git](https://github.com/Surajpatra700/Traffic_Analysis.git)
   cd Traffic Analysis
   ```
 
@@ -53,7 +53,7 @@ This repository contains a real-time traffic analysis system leveraging YOLOv8 f
   ```
     ```
 
-## 🛠️ script arguments
+## 🛠️ script_arguments
 
 - ultralytics
 
