@@ -51,7 +51,6 @@ This repository contains a real-time traffic analysis system leveraging YOLOv8 f
   ```bash
   ./setup.sh
   ```
-    ```
 
 ## 🛠️ script_arguments
 
