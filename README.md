@@ -29,7 +29,7 @@ This repository contains a real-time traffic analysis system leveraging YOLOv8 f
 - clone repository and navigate to current directory
 
   ```bash
-  git clone [https://github.com/roboflow/supervision.git](https://github.com/Surajpatra700/Traffic_Analysis.git)
+  git clone https://github.com/Surajpatra700/Traffic_Analysis.git
   cd Traffic Analysis
   ```
 
